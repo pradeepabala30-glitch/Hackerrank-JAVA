@@ -5,6 +5,6 @@ class greeting{
         Scanner sc = new Scanner(System.in) ;
         String name= sc.nextLine();
         {
-        System.out.println("hello"+name);
+        System.out.println("hello" +name);
     }
 }}
